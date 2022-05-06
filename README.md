@@ -11,3 +11,4 @@ My solutions to leetcode SQL Study Plan.
 
 <h2> Day 2:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day2/1873.%20Calculate%20Special%20Bonus.sql">Calculate Special Bonus</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%202/627.%20Swap%20Salary.sql">Swap Salary</a></br>
