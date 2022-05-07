@@ -16,3 +16,4 @@ My solutions to leetcode SQL Study Plan.
 
 <h2> Day 3:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1667.%20Fix%20Names%20in%20a%20Table.sql">Fix Names in a Table</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql">Group Sold Products By The Date</a></br>
