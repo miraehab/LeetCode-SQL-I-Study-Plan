@@ -13,3 +13,6 @@ My solutions to leetcode SQL Study Plan.
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day2/1873.%20Calculate%20Special%20Bonus.sql">Calculate Special Bonus</a></br>
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%202/627.%20Swap%20Salary.sql">Swap Salary</a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%202/196.%20Delete%20Duplicate%20Emails.sql">Delete Duplicate Emails</a></br>
+
+<h2> Day 3:</h2>
+1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1667.%20Fix%20Names%20in%20a%20Table.sql">Fix Names in a Table</a></br>
