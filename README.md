@@ -18,3 +18,9 @@ My solutions to leetcode SQL Study Plan.
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1667.%20Fix%20Names%20in%20a%20Table.sql">Fix Names in a Table</a></br>
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1484.%20Group%20Sold%20Products%20By%20The%20Date.sql">Group Sold Products By The Date</a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%203/1527.%20Patients%20With%20a%20Condition.sql">Patients With a Condition</a></br>
+
+<h2> Day 4:</h2>
+1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1965.%20Employees%20With%20Missing%20Information.SQL">Employees With Missing Information</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table</a></br>
+3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/608.%20Tree%20Node.sql">Tree Node</a></br>
+4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
