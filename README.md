@@ -21,6 +21,6 @@ My solutions to leetcode SQL Study Plan.
 
 <h2> Day 4:</h2>
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1965.%20Employees%20With%20Missing%20Information.SQL">Employees With Missing Information</a></br>
-2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table </a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/608.%20Tree%20Node.sql">Tree Node</a></br>
 4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
