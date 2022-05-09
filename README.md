@@ -24,3 +24,8 @@ My solutions to leetcode SQL Study Plan.
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/1795.%20Rearrange%20Products%20Table.sql">Rearrange Products Table </a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/608.%20Tree%20Node.sql">Tree Node</a></br>
 4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%204/176.%20Second%20Highest%20Salary.sql">Second Highest Salary</a></br>
+
+<h2> Day 5:</h2>
+1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/175.%20Combine%20Two%20Tables.sql">Combine Two Tables</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql">Customer Who Visited but Did Not Make Any Transactions</a></br>
+3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%205/1148.%20Article%20Views%20I.sql">Article Views I</a></br>
