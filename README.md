@@ -38,3 +38,9 @@ My solutions to leetcode SQL Study Plan.
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql">User Activity for the Past 30 Days I</a></br>
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1693.%20Daily%20Leads%20and%20Partners.sql">Daily Leads and Partners</a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%207/1729.%20Find%20Followers%20Count.sql">Find Followers Count</a></br>
+
+<h2> Day 8:</h2>
+1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql">Customer Placing the Largest Number of Orders</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/511.%20Game%20Play%20Analysis%20I.sql">Game Play Analysis I</a></br>
+3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1890.%20The%20Latest%20Login%20in%202020.sql">The Latest Login in 2020</a></br>
+4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql">Find Total Time Spent by Each Employee</a></br>
