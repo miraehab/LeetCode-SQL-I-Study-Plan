@@ -55,3 +55,5 @@ My solutions to leetcode SQL Study Plan.
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql">Actors and Directors Who Cooperated At Least Three Times</a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1587.%20Bank%20Account%20Summary%20II.sql">Bank Account Summary II</a></br>
 4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1084.%20Sales%20Analysis%20III.sql">Sales Analysis III</a></br>
+</br></br>
+<img src="./SQL-Badge.jpg">
