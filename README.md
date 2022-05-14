@@ -49,3 +49,9 @@ My solutions to leetcode SQL Study Plan.
 1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%209/1393.%20Capital%20Gain-Loss.sql">Capital Gain-Loss</a></br>
 2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%209/1407.%20Top%20Travellers.sql">Top Travellers</a></br>
 3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%209/1158.%20Market%20Analysis%20I.sql">Market Analysis I</a></br>
+
+<h2> Day 10:</h2>
+1. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/182.%20Duplicate%20Emails.sql">Duplicate Emails</a></br>
+2. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%2010/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql">Actors and Directors Who Cooperated At Least Three Times</a></br>
+3. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1890.%20The%20Latest%20Login%20in%202020.sql">The Latest Login in 2020</a></br>
+4. <a href="https://github.com/miraehab/LeetCode-SQL-I-Study-Plan/blob/main/Day%208/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql">Find Total Time Spent by Each Employee</a></br>
